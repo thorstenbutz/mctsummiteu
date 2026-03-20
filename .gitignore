@@ -26,3 +26,6 @@ layouts_site_backup/
 ## Docs that should not be pushed
 /IMPLEMENTATION.md
 /VISION.md
+
+## Ignore nested git inside vendored themes
+themes/**/.git/
