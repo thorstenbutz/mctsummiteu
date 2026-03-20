@@ -17,8 +17,6 @@ layouts_site_backup/
 ## Root dotfiles (ignore everything, except what we need)
 .*
 !.gitignore
-!.cursor/
-!.cursor/**
 
 ## Local CI/CD vision notes (keep out of sync)
 .CICD.md
