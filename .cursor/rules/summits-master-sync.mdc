@@ -1,0 +1,20 @@
+---
+description: Keep summits.md synchronized as master summit index
+alwaysApply: true
+---
+
+# summits.md Master Sync
+
+`summits.md` is the master record for summit metadata.
+
+When working on summit content:
+
+- If any `content/*/summit.md` is created, renamed, or updated, review `summits.md`.
+- Add or update the matching summit entry in `summits.md` in the same change.
+- Keep slugs, year, city, country code, and core summit facts aligned with the corresponding `summit.md`.
+- Do not leave `summits.md` stale after summit-related edits.
+
+Source of truth policy:
+
+- For per-summit page content, `content/*/summit.md` is canonical.
+- For global summit inventory and cross-checking, `summits.md` is canonical.

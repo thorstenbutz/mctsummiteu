@@ -1,0 +1,10 @@
+{{ $slug := . }}
+{{ $parts := split $slug "-" }}
+{{ if ge (len $parts) 3 }}
+{{ $year := index $parts 0 }}
+{{ $country := upper (index $parts (sub (len $parts) 1)) }}
+{{ $city := title (delimit (first (sub (len $parts) 2) (after 1 $parts)) " ") }}
+{{ $year }} {{ $city }} ({{ $country }})
+{{ else }}
+{{ $slug }}
+{{ end }}

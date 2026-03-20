@@ -1,0 +1,21 @@
+---
+description: Summit "Where" line format and maps-link policy
+alwaysApply: true
+---
+
+# Summit "Where" Format
+
+Use this format in every `content/*/summit.md` file:
+
+- `- **Where:** [<Venue display name>](<Google Maps search URL>), <City>, <Country> (<CC>)`
+
+Example:
+
+- `- **Where:** [UA92](https://www.google.com/maps/search/?api=1&query=UA92%2C+Brian+Statham+Way%2C+Old+Trafford%2C+Stretford%2C+Manchester%2C+M16+0PU%2C+UK), Manchester, United Kingdom (UK)`
+
+Maps-link policy:
+
+- If exact venue is known, use a hardcoded Google Maps URL and a short display name.
+- If only city is known (no exact venue), do not use a maps link.
+- City-only format: `- **Where:** <City>, <Country> (<CC>)`
+- If venue is unknown, keep explicit note when needed (for example `— venue TBD`).

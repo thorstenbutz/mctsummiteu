@@ -1,0 +1,12 @@
+---
+description: Project vision and goals (envisioned environment); read VISION.md for scope and intent
+alwaysApply: true
+---
+
+# Project Vision
+
+This project’s goals and envisioned environment are defined in **VISION.md** at the repo root.
+
+- Before proposing features or large changes, align with the Purpose and Goals in VISION.md.
+- Respect Out of Scope and Key Constraints listed there.
+- When in doubt, treat VISION.md as the source of truth for what this project is and is not.

@@ -1,0 +1,30 @@
+{{- $Src := .Get "src" -}}
+{{- $Alt := .Get "alt" | default "" -}}
+{{- $Width := .Get "width" -}}
+{{- $Height := .Get "height" -}}
+{{- $Href := .Get "href" -}}
+
+{{- if not $Src -}}
+<p><strong>Image error:</strong> missing <code>src</code>.</p>
+{{- else -}}
+{{- if $Href -}}
+<a href="{{ $Href }}" target="_blank" rel="noopener" aria-label="{{ $Alt }}">
+  <img
+    src="{{ $Src }}"
+    alt="{{ $Alt }}"
+    {{- if $Width }} width="{{ $Width }}"{{ end }}
+    {{- if $Height }} height="{{ $Height }}"{{ end }}
+    style="object-fit:contain;display:block;"
+  />
+</a>
+{{- else -}}
+<img
+  src="{{ $Src }}"
+  alt="{{ $Alt }}"
+  {{- if $Width }} width="{{ $Width }}"{{ end }}
+  {{- if $Height }} height="{{ $Height }}"{{ end }}
+  style="object-fit:contain;display:block;"
+/>
+{{- end -}}
+{{- end -}}
+

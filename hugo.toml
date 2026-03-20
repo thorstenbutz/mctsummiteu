@@ -1,0 +1,24 @@
+baseURL = 'https://mctsummit.eu/'
+languageCode = 'en-us'
+title = 'MCT Summit EU'
+theme = 'github-style'
+buildFuture = true
+pluralizeListTitles = false
+
+[params]
+description = 'Join the hub. Become a spoke.'
+author = 'MCT Summit EU'
+location = 'Europe'
+bluesky = 'mctsummit.eu'
+showOrganizations = false
+mastodon = 'https://twit.social/@mctsummit.eu@bsky.brid.gy'
+headerUseHomeIcon = true
+avatar = '/images/mctsummiteulogo-transparent-white-800x800.png'
+avatarDark = '/images/mctsummiteulogo-transparent-dark-800x800.png'
+custom_css = ['css/avatar-theme.css']
+footerLogo = 'none'
+## To show a footer logo, set footerLogo to the image path instead of 'none', e.g.:
+## footerLogo = '/images/mctsummiteulogo-transparent-white-800x800.png'
+[params.summitMenus]
+upcoming = ['2026-sarajevo-ba']
+previous = ['2025-manchester-uk', '2024-rijswijk-nl', '2022-zurich-ch', '2019-vilnius-lt', '2019-helsinki-fi', '2017-thessaloniki-gr', '2016-cologne-de', '2015-lisbon-pt', '2014-bucharest-ro', '2013-helsinki-fi', '2012-warsaw-pl', '2011-stockholm-se', '2010-york-uk', '2009-prague-cz', '2008-berlin-de']

@@ -1,0 +1,20 @@
+---
+description: Summit pages must start with When/Where/Hosts/Title/EventSite block
+alwaysApply: true
+---
+
+# summit.md Date and venue Block
+
+For every `content/*/summit.md`:
+
+1. Inside `## Date and venue`, the page must start immediately with this ordered bullet block:
+   - `- **When:** ...`
+   - `- **Where:** ...`
+   - `- **Hosts:** ...`
+   - `- **Title:** ...`
+   - `- **EventSite:** ...`
+
+2. No other text (blank paragraphs, images, extra headings, etc.) may appear before this bullet block within `## Date and venue`.
+
+Optional formatting guidance:
+- The `**When:**` / `**Where:**` / etc. keys must use the exact labels as shown.

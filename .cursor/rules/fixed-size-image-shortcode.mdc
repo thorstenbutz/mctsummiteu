@@ -1,0 +1,17 @@
+---
+description: Use image-size shortcode for fixed-size summit images
+alwaysApply: true
+---
+
+# Fixed-size Images
+
+When adding small logo/images on summit pages (for example under `## Date and venue`), prefer the `image-size` shortcode over manual HTML.
+
+Rules:
+
+- Use `{{< image-size src="..." alt="..." width="..." height="..." >}}`
+- If the image must be clickable, add `href="..."`:
+  - `{{< image-size src="..." href="..." alt="..." width="200" height="200" >}}`
+
+Avoid:
+- Manual raw `<img>` / `<a>` wrapping for summit logo images (use the shortcode instead).

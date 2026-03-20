@@ -1,0 +1,42 @@
+---
+description: Placeholder-only agenda/pictures pages must stay draft
+alwaysApply: true
+---
+
+# Summit placeholder pages and `draft` status
+
+For every new summit section (`content/<slug>/`), always create these pages:
+
+- `summit.md`
+- `agenda.md`
+- `pictures.md`
+
+If real data is not available yet, keep the placeholder pages **on-hold** by setting `draft: true` in their front matter.
+
+## pictures.md placeholder detection
+
+If `content/<slug>/pictures.md` only contains the placeholder text:
+
+- `Picture gallery for MCT Summit EU <YEAR> in <City> will be published here.`
+
+then set:
+
+- `draft: true`
+
+## agenda.md placeholder detection
+
+If `content/<slug>/agenda.md` only contains placeholder content such as:
+
+- “Full schedule not available.”
+- “Session-level agenda data is not available.”
+- A minimal agenda table row where `Speaker` is `—` and `Topic` contains “not available”
+
+then set:
+
+- `draft: true`
+
+## summit.md draft policy
+
+- Keep `summit.md` present for every summit.
+- If `summit.md` itself is also placeholder-only (e.g., key facts like When/Where/Hosts/Title/EventSite are not known), you may also set `draft: true` for `summit.md`.
+

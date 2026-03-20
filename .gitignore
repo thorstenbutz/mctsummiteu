@@ -1,0 +1,28 @@
+## Hugo
+/public/
+/resources/_gen/
+.temp/
+/resources/
+.hugo_build.lock
+hugo.exe
+
+## OS
+.DS_Store
+Thumbs.db
+static/images/**/.*
+
+## Local backups / exports
+layouts_site_backup/
+
+## Root dotfiles (ignore everything, except what we need)
+.*
+!.gitignore
+!.cursor/
+!.cursor/**
+
+## Local CI/CD vision notes (keep out of sync)
+.CICD.md
+
+## Docs that should not be pushed
+/IMPLEMENTATION.md
+/VISION.md

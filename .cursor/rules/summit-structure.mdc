@@ -1,0 +1,38 @@
+---
+description: Summit naming and folder structure for MCT Summit EU
+alwaysApply: true
+---
+
+# Summit structure (memory bank)
+
+All summit items in this project follow this convention.
+
+## Display name (title)
+
+- **Format:** `Year City (2-letter country code in caps)`
+- **Examples:** `2024 Rijswijk (NL)`, `2025 Manchester (UK)`, `2026 Sarajevo (BA)`
+- **Main nav:** The header template derives the display name from the slug (no manual title needed):
+  - Split slug by `-`: first part = year, last part = country code, middle = city
+  - Country: uppercase (e.g. `ba` → `BA`)
+  - City: title case (e.g. `sarajevo` → `Sarajevo`)
+- Used in: nav dropdowns (Upcoming / Previous), summit pages, and anywhere the summit is shown by name.
+
+## Folder / URL slug
+
+- **Format:** `year-city-2lettercountrycode` in **lowercase**
+- **Examples:** `2024-rijswijk-nl`, `2025-manchester-uk`, `2026-sarajevo-ba`
+- No spaces, no brackets; hyphen only between parts. Country code is two letters, lowercase in the slug.
+- Content path: `content/<slug>/summit.md` (plus `agenda.md`, `pictures.md` as needed)
+- URL: `/<slug>/`, summit page: `/<slug>/summit/`
+
+## Config (hugo.toml)
+
+- `[params.summitMenus].upcoming` and `.previous` list **slugs only** (folder names), e.g. `['2025-manchester-uk', '2026-sarajevo-ba']`.
+- Order in each list = order in the dropdown (newest first for previous, chronological for upcoming).
+
+## Checklist for a new summit
+
+1. Create folder: `content/YYYY-city-xx/` (xx = 2-letter country code, lowercase).
+2. Add `summit.md` with front matter: `title`, `date` (YYYY-MM-DD), `city`, `country` (2-letter code).
+3. Add slug to `hugo.toml` under `params.summitMenus.upcoming` or `.previous`.
+4. Main nav display name is derived automatically from the slug.

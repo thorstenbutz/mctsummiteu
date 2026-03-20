@@ -1,0 +1,24 @@
+---
+description: Agenda.md table consistency and resource-link conventions
+alwaysApply: true
+---
+
+# Summit Agenda Consistency
+
+For every `content/*/agenda.md`:
+
+- Keep the heading format:
+  - `## The agenda: [start day] to [end day] [Month] [Year]`
+- Required columns: `Date`, `Speaker`, `Topic`
+- Optional columns:
+  - Time as 2nd column with empty header
+  - `Resources` as final column (post-summit, when links exist)
+- Column order must be:
+  - `Date` -> `(Time)` -> `Speaker` -> `Topic` -> `(Resources)`
+
+Resources conventions:
+
+- Use explicit link labels by type:
+  - `Video (SlidesLive)`, `Video (YouTube)`, `Slides`, `Demo`, `Resources`
+- Do not use vague labels like `Click here`.
+- Keep one resource entry per session row when resources are available.

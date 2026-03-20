@@ -1,0 +1,21 @@
+---
+description: Header label on pictures.md shows image count
+alwaysApply: true
+---
+
+# pictures.md Header Picture Count
+
+On `content/*/pictures.md` pages:
+
+- The header label must show: `N pictures`
+- Normal pages keep: `{{ countwords .Content }} Words`
+
+How `N` is determined:
+
+- It is computed by the `gallery-static` shortcode which counts images it renders and stores the running total in:
+  - `.Page.Scratch.picturesCount`
+- If multiple `gallery-static` calls are present on the same `pictures.md` page, counts are summed.
+
+Hidden files:
+
+- `gallery-static` must ignore any file whose name starts with `.` and it must not count dot-prefixed images.

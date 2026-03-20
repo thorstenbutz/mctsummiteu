@@ -1,0 +1,52 @@
+/* Avatar: show light or dark image based on theme mode */
+.js-avatar-light,
+.js-avatar-dark {
+  display: inline-block;
+}
+html[data-color-mode="light"] .js-avatar-dark {
+  display: none !important;
+}
+html[data-color-mode="dark"] .js-avatar-light {
+  display: none !important;
+}
+
+/* Summit nav dropdowns (Upcoming / Previous) */
+.summit-dropdown {
+  display: none;
+  min-width: 180px;
+  z-index: 100;
+  box-shadow: var(--color-dropdown-shadow, 0 8px 24px rgba(0, 0, 0, 0.12));
+}
+.UnderlineNav-body details[open] .summit-dropdown {
+  display: block;
+}
+.UnderlineNav-body details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Header (top bar) summit dropdowns */
+.header-summit-dropdown {
+  display: none;
+  min-width: 180px;
+  z-index: 100;
+  box-shadow: var(--color-dropdown-shadow, 0 8px 24px rgba(0, 0, 0, 0.12));
+}
+.Header details[open] .header-summit-dropdown {
+  display: block;
+}
+.Header details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Spacing between main nav items (~, Upcoming, Previous, Imprint) */
+.header-nav-items > .Header-item {
+  margin-right: 1.25rem;
+}
+.header-nav-items > .Header-item:last-child {
+  margin-right: 0;
+}
+
+/* Space between search field and Imprint (when search is visible) */
+#header-search {
+  margin-left: 1.25rem;
+}

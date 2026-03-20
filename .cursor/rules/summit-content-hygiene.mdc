@@ -1,0 +1,19 @@
+---
+description: Summit page content hygiene and anti-duplication rules
+alwaysApply: true
+---
+
+# Summit Content Hygiene
+
+For `content/*/summit.md`:
+
+- Do not add this legacy block:
+  - `## Agenda`
+  - `[Click here for the agenda](/<slug>/agenda)`
+- Agenda navigation is handled by the breadcrumb mini-nav, not by duplicate body links.
+
+When editing summit pages:
+
+- Keep `## Date and venue` intact.
+- Keep existing `Resources`, images, and historical notes unless explicitly asked to remove them.
+- Only change targeted lines; avoid unrelated rewrites.
