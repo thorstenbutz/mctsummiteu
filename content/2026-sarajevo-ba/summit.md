@@ -13,7 +13,7 @@ country: BA
 - **Title:** European MCT Summit Sarajevo 2026 
 - **EventSite:** https://mctsummit.ba ; https://e.runevents.net/mct-eu-summit-2026  
 
-{{< image-size src="/images/2026-sarajevo-ba/sarajevoLogo.gif" href="/images/2026-sarajevo-ba/sarajevoLogo.gif" alt="Sarajevo logo" width="200" height="200" >}}
+{{< image-size src="/images/2026-sarajevo-ba/sarajevoLogo.jpg" href="/images/2026-sarajevo-ba/sarajevoLogo.jpg" alt="Sarajevo logo" width="200" height="200" >}}
 
 ## Sarajevo sightseeing tour
 
