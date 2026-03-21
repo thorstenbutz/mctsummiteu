@@ -1,3 +1,5 @@
+## IMPORTANT: baseURL must stay '/' (root-relative).
+## Do NOT change to an absolute URL — it breaks CSS on Cloudflare Pages.
 baseURL = '/'
 languageCode = 'en-us'
 title = 'MCT Summit EU'
@@ -13,6 +15,7 @@ home = ['HTML', 'RSS', 'JSON']
 description = 'Join the hub. Become a spoke.'
 author = 'MCT Summit EU'
 location = 'Europe'
+url = 'https://mctsummit.eu/'
 bluesky = 'mctsummit.eu'
 showOrganizations = false
 mastodon = 'https://twit.social/@mctsummit.eu@bsky.brid.gy'
