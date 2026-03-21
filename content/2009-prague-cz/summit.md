@@ -1,6 +1,6 @@
 ---
 title: Summit
-date: 2009-01-07
+# date: 2009-01-07
 city: Prague
 country: CZ
 ---
@@ -10,8 +10,8 @@ country: CZ
 - **When:** 7–9 January 2009
 - **Where:** [Clarion Congress Hotel Praha](https://www.google.com/maps/search/?api=1&query=Clarion+Congress+Hotel+Praha%2C+Freyova+945%2F33%2C+190+00+Praha+9-Vyso%C4%8Dany), Prague, Czech Republic (CZ)
 - **Hosts:** Microsoft
-- **Title:** MCT Summit Europe 2009
-- **EventSite:** (n/a)
+- **Title:** MCT Community Summit 2009
+- **EventSite:** www.mctsummit2009.com
 
 ![MCT Summit 2009 Prague](/images/2009-prague-cz/2009-01-09_mctsummit2009_57_400x300.jpg)
 

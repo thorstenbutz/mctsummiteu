@@ -1,6 +1,6 @@
 ---
 title: Pictures
-date: 2008-01-14
+# date: 2008-01-14
 city: Berlin
 country: DE
 draft: true

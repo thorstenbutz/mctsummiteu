@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2013-11-28
+# date: 2013-11-28
 city: Helsinki
 country: FI
 draft: true

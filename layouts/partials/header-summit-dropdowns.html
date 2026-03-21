@@ -1,0 +1,53 @@
+{{ $upcoming := default (slice "2026-sarajevo-ba") .Site.Params.summitMenus.upcoming }}
+{{ $previous := default (slice) .Site.Params.summitMenus.previous }}
+<div class="Header-item position-relative">
+  <details class="details-overlay details-reset">
+    <summary class="Header-link no-select" style="cursor: pointer; list-style: none;">
+      Upcoming
+      <svg class="octicon octicon-chevron-down" height="16" viewBox="0 0 16 16" width="16">
+        <path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path>
+      </svg>
+    </summary>
+    <div class="header-summit-dropdown Box position-absolute left-0 mt-1">
+      <ul class="list-style-none p-2 mb-0">
+        {{ range $upcoming }}
+        {{ with $.Site.GetPage (printf "/%s" .) }}
+        {{ $summitOverview := $.Site.GetPage (printf "/%s/summit" .Section) }}
+        {{ $parts := split .Section "-" }}
+        {{ $year := index $parts 0 }}
+        {{ $country := upper (index $parts (sub (len $parts) 1)) }}
+        {{ $city := title (delimit (first (sub (len $parts) 2) (after 1 $parts)) " ") }}
+        <li class="py-1"><a class="d-block Link--primary no-underline" href="{{ if $summitOverview }}{{ $summitOverview.Permalink }}{{ else }}{{ .Permalink }}{{ end }}">{{ $year }} {{ $city }} ({{ $country }})</a></li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </details>
+</div>
+<div class="Header-item position-relative">
+  <details class="details-overlay details-reset">
+    <summary class="Header-link no-select" style="cursor: pointer; list-style: none;">
+      Previous
+      <svg class="octicon octicon-chevron-down" height="16" viewBox="0 0 16 16" width="16">
+        <path fill-rule="evenodd" d="M12.78 6.22a.75.75 0 010 1.06l-4.25 4.25a.75.75 0 01-1.06 0L3.22 7.28a.75.75 0 011.06-1.06L8 9.94l3.72-3.72a.75.75 0 011.06 0z"></path>
+      </svg>
+    </summary>
+    <div class="header-summit-dropdown Box position-absolute left-0 mt-1">
+      <ul class="list-style-none p-2 mb-0">
+        {{ range $previous }}
+        {{ with $.Site.GetPage (printf "/%s" .) }}
+        {{ $summitOverview := $.Site.GetPage (printf "/%s/summit" .Section) }}
+        {{ $parts := split .Section "-" }}
+        {{ $year := index $parts 0 }}
+        {{ $country := upper (index $parts (sub (len $parts) 1)) }}
+        {{ $city := title (delimit (first (sub (len $parts) 2) (after 1 $parts)) " ") }}
+        <li class="py-1"><a class="d-block Link--primary no-underline" href="{{ if $summitOverview }}{{ $summitOverview.Permalink }}{{ else }}{{ .Permalink }}{{ end }}">{{ $year }} {{ $city }} ({{ $country }})</a></li>
+        {{ end }}
+        {{ end }}
+        {{ if not $previous }}
+        <li class="py-1 text-gray">No previous summits</li>
+        {{ end }}
+      </ul>
+    </div>
+  </details>
+</div>

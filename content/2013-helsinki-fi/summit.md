@@ -1,6 +1,6 @@
 ---
 title: Summit
-date: 2013-11-28
+# date: 2013-11-28
 city: Helsinki
 country: FI
 ---
@@ -11,5 +11,5 @@ country: FI
 - **Where:** Helsinki, Finland (FI) — venue TBD
 - **Hosts:** Sami Laiho
 - **Title:** MCT Summit EU 2013
-- **EventSite:** https://mctsummit.eu
+- **EventSite:** mctsummit.eu
 

@@ -38,7 +38,27 @@ html[data-color-mode="dark"] .js-avatar-light {
   display: none;
 }
 
-/* Spacing between main nav items (~, Upcoming, Previous, Imprint) */
+/* Mobile nav bar: Upcoming, Previous, Imprint, theme */
+.header-mobile-summit-row {
+  flex-basis: 100%;
+  order: 10;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.header-mobile-summit-row-inner {
+  gap: 0.5rem 1.25rem;
+}
+
+/* Drop theme .Header-item margins so the group centers cleanly */
+.header-mobile-summit-row-inner > .Header-item {
+  margin-right: 0;
+}
+
+/* Spacing between main nav items (~, Upcoming, Previous, Imprint; desktop) */
 .header-nav-items > .Header-item {
   margin-right: 1.25rem;
 }

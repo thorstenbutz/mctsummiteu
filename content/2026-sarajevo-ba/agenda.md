@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2026-04-21
+# date: 2026-04-21
 city: Sarajevo
 country: BA
 ---
@@ -14,9 +14,12 @@ country: BA
 
 ## The agenda: 21 to 23 April 2026
 
+Detailed session information is available on the run.events website: \
+https://e.runevents.net/mct-eu-summit-2026
+
 | Date |  | Speaker | Topic |
 | --- | --- | --- | --- |
-| Tuesday 21 April 2026 | 09:00 - 10:00 | Jasmin Kahriman, Damir Dizdarevic, Rolf Mclaughlin, Robert Hales | Opening Session & Keynote |
+| Tuesday 21 April 2026 | 09:00 - 10:00 | Jasmin Kahriman, Damir Dizdarevic, Rolf McLaughlin, Robert Hales | Opening Session & Keynote |
 | Tuesday 21 April 2026 | 11:30 - 12:30 | Robert Rybaric | Teaching AI the structured way |
 | Tuesday 21 April 2026 | 11:30 - 12:30 | Christian Peeters | The RAGged Edge: Keep your data and AI close |
 | Tuesday 21 April 2026 | 11:30 - 12:30 | Nicky De Westelinck | Securing the Core: Building a Rock-Solid Microsoft 365 Tenant Baseline |
@@ -43,7 +46,7 @@ country: BA
 | Wednesday 22 April 2026 | 14:45 - 15:45 | Jasmin Kahriman | Stand Out as an MCT: Personal Branding on LinkedIn |
 | Wednesday 22 April 2026 | 14:45 - 15:45 | Vivek Trivedi | Govern or Be Governed: Making Power BI Reports Secure, Compliant, and Trusted |
 | Wednesday 22 April 2026 | 14:45 - 15:45 | Christian Peeters | T-SQL Meets AI: Unleashing Vector and RAG Power in SQL Databases |
-| Wednesday 22 April 2026 | 16:00 - 17:00 | Rolf Mclaughlin | Shaping the MCT of the future (Panel) |
+| Wednesday 22 April 2026 | 16:00 - 17:00 | Rolf McLaughlin | Shaping the MCT of the future (Panel) |
 | Wednesday 22 April 2026 | 16:00 - 17:00 | Saul Patino | Prompt to Podium: Automating Demos with VS Code and Copilot |
 | Wednesday 22 April 2026 | 16:00 - 17:00 | Robert Hales | Azure sky is looking cloudy! How to work as a multi-cloud instructor |
 | Thursday 23 April 2026 | 09:00 - 10:00 | Ronald Beekelaar | Using tools, best practices, and AI to make your Web site and courseware accessible |

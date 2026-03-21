@@ -1,6 +1,6 @@
 ---
 title: Summit
-date: 2025-01-09
+# date: 2025-01-09
 city: Manchester
 country: UK
 ---
@@ -9,10 +9,11 @@ country: UK
 
 - **When:** 9–10 January 2025
 - **Where:** [UA92](https://www.google.com/maps/search/?api=1&query=UA92%2C+Brian+Statham+Way%2C+Old+Trafford%2C+Stretford%2C+Manchester%2C+M16+0PU%2C+UK), Manchester, United Kingdom (UK)
-- **Hosts:** Sara Fannah, Julian Sharp, Joe Griffin, Tiago Costa
+- **Hosts:** Sara Fennah, Julian Sharp, Joe Griffin, Tiago Costa
 - **Title:** MCT Summit EU 2025
-- **EventSite:** https://www.mctsummit.co.uk, https://e.runevents.net/european-mct-summit-2025
+- **EventSite:** mctsummit.co.uk
 
+{{< image-size src="https://m365train.co.uk/wp-content/uploads/2025/01/pi9.mct25asset-5.png" href="https://m365train.co.uk/wp-content/uploads/2025/01/pi9.mct25asset-5.png" alt="MCT Summit EU 2025 Manchester" width="200" height="200" >}}
 
 ## Resources
 

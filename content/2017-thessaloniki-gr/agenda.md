@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2017-06-08
+# date: 2017-06-08
 city: Thessaloniki
 country: GR
 ---
@@ -29,5 +29,5 @@ country: GR
 The main **event channel** can be found here: 
 [http://www.youtube.com/@mctsummiteurope995](http://www.youtube.com/@mctsummiteurope995)
 
-The **"After Event Clip"** ca be found here:
+The **"After Event Clip"** can be found here:
 [https://youtu.be/eCDvNS61ez4](https://youtu.be/eCDvNS61ez4)

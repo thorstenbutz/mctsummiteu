@@ -1,6 +1,6 @@
 ---
 title: Pictures
-date: 2019-09-18
+# date: 2019-09-18
 city: Vilnius
 country: LT
 draft: true

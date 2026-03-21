@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2014-07-03
+# date: 2014-07-03
 city: Bucharest
 country: RO
 draft: true

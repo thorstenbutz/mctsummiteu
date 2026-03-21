@@ -3,12 +3,10 @@ title: about MCTSummit.EU
 date: 2024-01-01
 ---
 
-Welcome to **MCTSummit.EU**. This site is meant to be a central hub and an archive for **M**icrosoft **C**ertified **T**rainers.
+Welcome to **MCTSummit.EU**. This site is intended as a central hub and archive for **M**icrosoft **C**ertified **T**rainers. You could call it a diary, a scrapbook, or a book of friends.
 
-Since Microsoft introduced the MCT program in the 1990ies, a lot of passionate lecturers,trainers, consultants engaged in educating IT pros all around the world. What started as a mix of certification and partner program, became a vivid community of people - sharing knownledge, meeting all over the places, simply enjoyed having a dring together.
+Since Microsoft introduced the MCT programme in the 1990s, many passionate lecturers, trainers and consultants have been involved in educating IT professionals all around the world. What started as a combination of a certification and a partner programme has become a vibrant community of people who share knowledge, meet in various locations and simply enjoy having a drink together.
 
-Most summits have been organized on a strictly private basis. This website is meant as a wiki, documenting talks, collecting pictures, to indulge in memories.
+Most summits have been organised on a strictly private basis. This website is intended as a wiki to document talks and collect pictures to indulge in memories.You are very welcome to contribute to this website. Provide information, links, pictures, and so on. 
 
-You are very welcome to add content to this website. Provide information, links, pictures, etcetera. 
-
-Although this site focusses primarily on (past and future) European events - we also love to link and integrate MCT summits all over the globe.
+Although this site primarily focuses on European events, past and future, we also love to link to and integrate MCT summits all over the globe.

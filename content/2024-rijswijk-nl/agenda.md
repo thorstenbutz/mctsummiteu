@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2024-01-14
+# date: 2024-01-14
 city: Rijswijk
 country: NL
 ---
@@ -38,8 +38,8 @@ country: NL
 | 14–17 January 2024 | Tim Hermie | Reduce the Attack Vector - Secure your Endpoints |  |
 | 14–17 January 2024 | Wim Matthyssen | From zero to hero with Azure Arc-enabled Infrastructure in 50 minutes |  |
 | 14–17 January 2024 | Wim Matthyssen, Tim Hermie | Azure Identity Management: No PIM without WIM and TIM |  |
-| 14–17 January 2024 | Marco Timmermans | A deep dive in training oportunities |  |
-| 14–17 January 2024 | Elias Markelis | Teach you students PowerShell in an hour |  |
+| 14–17 January 2024 | Marco Timmermans | A deep dive in training opportunities |  |
+| 14–17 January 2024 | Elias Markelis | Teach your students PowerShell in an hour |  |
 | 14–17 January 2024 | Hanna Engel | Quantum computing - the next great thing |  |
 | 14–17 January 2024 | Sjon Post, Patrick Kersten | Using ChatGPT and other generative AI tools in education |  |
 | 14–17 January 2024 | Elias Markelis | A journey through data with KQL |  |

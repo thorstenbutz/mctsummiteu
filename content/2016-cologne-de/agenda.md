@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2016-08-04
+# date: 2016-08-04
 city: Cologne
 country: DE
 ---
@@ -23,7 +23,7 @@ The videos, slides and abstracts for all presentations can be found here:
 | 4–6 August 2016 | Elias Markelis | Get to know PowerApps | [Video (SlidesLive)](https://slideslive.com/38897989) |
 | 4–6 August 2016 | Thomas Jäkel | How to Manage Nano | [Video (SlidesLive)](https://slideslive.com/38897934) |
 | 4–6 August 2016 | Tiago Costa | Become an ALM Ninja in Microsoft Office 365 App Development | [Video (SlidesLive)](https://slideslive.com/38897942) |
-| 4–6 August 2016 | Mirko Colemberg | ATA Advanced Thread Analytics, ATP Windows Defender Threat Protection | [Video (SlidesLive)](https://slideslive.com/38897948) |
+| 4–6 August 2016 | Mirko Colemberg | ATA Advanced Threat Analytics, ATP Windows Defender Threat Protection | [Video (SlidesLive)](https://slideslive.com/38897948) |
 | 4–6 August 2016 | Julian Sharp | Dynamic CMR Training Challenges | [Video (SlidesLive)](https://slideslive.com/38897936) |
 | 4–6 August 2016 | Vladimir Stefanović | Virtualization of Virtualization | [Video (SlidesLive)](https://slideslive.com/38897937) |
 | 4–6 August 2016 | Marco Timmermans | Managing student expectations | [Video (SlidesLive)](https://slideslive.com/38897955) |

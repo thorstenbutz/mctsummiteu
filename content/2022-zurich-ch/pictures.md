@@ -1,6 +1,6 @@
 ---
 title: Pictures
-date: 2022-09-12
+# date: 2022-09-12
 city: Zurich
 country: CH
 draft: true

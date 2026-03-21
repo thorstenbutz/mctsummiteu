@@ -91,18 +91,23 @@
                   </strong>
                   {{ end }}
                 </h1>
+                {{ if or (not .PublishDate.IsZero) .Site.Params.lastmod }}
                 <div class="note m-0">
+                  {{ if not .PublishDate.IsZero }}
                   Created <relative-time datetime="{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}"
                     class="no-wrap">
                     {{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</relative-time>
-
+                  {{ end }}
                   {{ if .Site.Params.lastmod }}
+                  {{ if not .PublishDate.IsZero }}
                   <span class="file-info-divider"></span>
+                  {{ end }}
                   Modified <relative-time datetime="{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}"
                     class="no-wrap">
                     {{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</relative-time>
                   {{ end }}
                 </div>
+                {{ end }}
               </div>
             </div>
           </div>

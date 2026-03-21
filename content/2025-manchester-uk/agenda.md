@@ -1,10 +1,10 @@
 ---
 title: Agenda
-date: 2025-01-09
+# date: 2025-01-09
 city: Manchester
 country: UK
 ---
-## Agenda
+## The agenda: 9 to 10 January 2025
 
 Detailed session information is available on the run.events website: \
 https://e.runevents.net/european-mct-summit-2025
@@ -22,7 +22,7 @@ https://e.runevents.net/european-mct-summit-2025
 | Thursday 9 Jan 2025, Room 1 | 15:15 - 16:00 | Rolf McLaughlin                                              | Deliver an Azure class with the help of advanced PowerShell scripts |
 | Thursday 9 Jan 2025, Room 2 | 15:15 - 16:00 | Sasha Kranjac, Bill Ayers, Jonah Andersson, Ronald Beekelaar, Chintan Patel, Anouck Fierens | MCTs Make Great MVPs – Take 2                                |
 | Friday 10 Jan 2025, Room 1  | 09:00 - 09:45 | Joe Griffin                                                  | So you've become an MCT - What Now?                          |
-| Friday 10 Jan 2025, Room 2  | 09:00 - 09:45 | What Makes a Good Trainer? Exploring the Essential Skills Beyond Knowledge | What Makes a Good Trainer? Exploring the Essential Skills Beyond Knowledge |
+| Friday 10 Jan 2025, Room 2  | 09:00 - 09:45 | Anouck Fierens, Sasha Kranjac, Nicky De Westelinck, Marijn Somers | What Makes a Good Trainer? Exploring the Essential Skills Beyond Knowledge |
 | Friday 10 Jan 2025, Room 1  | 10:00 - 10:45 | Ralph Eckhard                                                | Making the most of Teams Premium - MCT Edition               |
 | Friday 10 Jan 2025, Room 2  | 10:00 - 10:45 | Sasha Kranjac                                                | 10 Dos and Don'ts of (un)Successful Presentations            |
 | Friday 10 Jan 2025, Room 1  | 11:15 - 12:00 | Joao Barros                                                  | Building Confidence in New Trainers: Strategies for Overcoming Classroom Challenges |

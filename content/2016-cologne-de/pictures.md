@@ -1,6 +1,6 @@
 ---
 title: Pictures
-date: 2016-08-04
+# date: 2016-08-04
 city: Cologne
 country: DE
 draft: true

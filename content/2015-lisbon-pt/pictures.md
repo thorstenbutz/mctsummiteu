@@ -1,6 +1,6 @@
 ---
 title: Pictures
-date: 2015-06-01
+# date: 2015-06-01
 city: Lisbon
 country: PT
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: Pictures
-date: 2009-01-07
+# date: 2009-01-07
 city: Prague
 country: CZ
 draft: true

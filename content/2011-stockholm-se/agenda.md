@@ -1,6 +1,6 @@
 ---
 title: Agenda
-date: 2011-06-28
+# date: 2011-06-28
 city: Stockholm
 country: SE
 draft: true

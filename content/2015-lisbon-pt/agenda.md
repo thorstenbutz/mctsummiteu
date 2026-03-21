@@ -1,12 +1,12 @@
 ---
 title: Agenda
-date: 2015-06-01
+# date: 2015-06-01
 city: Lisbon
 country: PT
 draft: true
 ---
 
-## The agenda: 2015
+## The agenda: 26 to 28 November 2015
 
 | Date | Speaker | Topic |
 | :--- | :--- | :--- |
