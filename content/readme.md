@@ -12,10 +12,3 @@ Most summits have been organised on a strictly private basis. This website is in
 
 Although this site primarily focuses on European events, past and future, we also love to link to and integrate MCT summits all over the globe.
 
-## about MCTSummit.eu
-
-This website uses [Hugo](https://gohugo.io/) with the [github-style](https://themes.gohugo.io/themes/github-style/) theme as the static site generator, [GitHub](https://github.com/) as the source code repository, and [Cloudflare Pages](https://pages.cloudflare.com/) as the hosting and CDN platform. Every push to the repository triggers an automatic build and deployment (CI/CD — continuous integration and continuous delivery) — no servers to manage, no manual uploads, no FTP. The initial website was created with Cursor (a VSCode fork) and different AIgents.
-
-Static websites have many advantages. First, content can easily be transferred from one location to another in file form. There is no reliance on databases or proprietary formats. It's just simple text files that can also be opened locally. If a website is taken offline, its archived files can be repurposed elsewhere at any time. 
-
-Hugo relies on "content files" that are rendered into HTML pages. The content is primarily stored in Markdown and image files. This source code for Hugo is located in this repository. Any change to one of these content files triggers a new build process initiated by Cloudflare, which updates the actual website. 
