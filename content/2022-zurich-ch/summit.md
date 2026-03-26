@@ -9,7 +9,7 @@ country: CH
 
 - **When:** 12–14 September 2022
 - **Where:** [Technopark](https://www.google.com/maps/search/?api=1&query=Technopark+Z%C3%BCrich%2C+Technoparkstrasse+1%2C+8005+Z%C3%BCrich%2C+Switzerland), Zurich, Switzerland (CH)
-- **Hosts:** (n/a)
+- **Hosts:** Charley Hanania
 - **Title:** European MCT Summit 2022
 - **EventSite:** mctsummit.eu
 
