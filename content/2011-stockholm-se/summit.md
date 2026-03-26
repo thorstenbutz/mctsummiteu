@@ -13,7 +13,10 @@ country: SE
 - **Title:** MCT Summit - Stockholm - 2011
 - **EventSite:** http://www.iamct.org/summit/2011
 
+Post events: Exploration in Old Town of Stockholm and an evening at [Gröna Lund (Theme park)](https://www.gronalund.com/)
+
 ![](/images/2011-stockholm-se/2011stockholmlogo.jpg)
+
 
 ## Resources
 
