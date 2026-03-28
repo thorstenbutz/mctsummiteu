@@ -25,7 +25,7 @@ Date and venue
 When: 28 June-1 July 2011
 Where: Stockholm, Sweden (SE)
 Hosts: Mattias Lind,Daniel Sörlöv, Cecilia Wirén
-Title: MCT Summit - Stockholm - 2011
+Title: MCT Summit 2011
 EventSite: www.iamct.org/summit/2011
 
 Date and venue

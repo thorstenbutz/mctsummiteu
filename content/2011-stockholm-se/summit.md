@@ -9,8 +9,8 @@ country: SE
 
 - **When:** 28 June – 1 July 2011
 - **Where:** Stockholm, Sweden (SE)
-- **Hosts:** (n/a)
-- **Title:** MCT Summit - Stockholm - 2011
+- **Hosts:** Mattias Lind,Daniel Sörlöv, Cecilia Wirén
+- **Title:** MCT Summit 2011
 - **EventSite:** http://www.iamct.org/summit/2011
 
 Post events: Exploration in Old Town of Stockholm and an evening at [Gröna Lund (Theme park)](https://www.gronalund.com/)
