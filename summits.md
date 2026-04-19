@@ -1,6 +1,13 @@
 # MCT Summit EU - Machine Readable Memory Bank
 
 Date and venue
+When: 11-12 January 2007
+Where: [Swissotel Zürich (Oerlikon)](https://www.google.com/maps/search/?api=1&query=Swissotel+Z%C3%BCrich+Oerlikon%2C+Z%C3%BCrich%2C+Switzerland), Zürich, Switzerland (CH)
+Hosts: Microsoft
+Title: MCT Community Summit 2007
+EventSite: n/a
+
+Date and venue
 When: 14-16 January 2008
 Where: Berlin, Germany (DE)
 Hosts: Microsoft
@@ -9,14 +16,14 @@ EventSite: microsoft.com/germany/learning/mct/mctsummit2008/
 
 Date and venue
 When: 7-9 January 2009
-Where: Clarion Congress Hotel Praha, [Freyova 945/33, 190 00 Praha 9-Vysočany](https://www.google.com/maps/search/?api=1&query=Freyova+945%2F33%2C+190+00+Praha+9-Vyso%C4%8Dany) 
+Where: [Clarion Congress Hotel Praha](https://www.google.com/maps/search/?api=1&query=Freyova+945%2F33%2C+190+00+Praha+9-Vyso%C4%8Dany), Czech Republic (CZ)
 Hosts: Microsoft
 Title: MCT Community Summit 2009
 EventSite: www.mctsummit2009.com
 
 Date and venue
 When: 25-27 August 2010
-Where: [University of York](https://www.google.com/maps/search/?api=1&query=Heslington%2C+York+YO10+5DD%2C+United+Kingdom)
+Where: [University of York](https://www.google.com/maps/search/?api=1&query=Heslington%2C+York+YO10+5DD%2C+United+Kingdom), York, United Kingdom (UK)
 Hosts: Andrew Bettany
 Title: MCT Live Summit York 2010
 EventSite: mctsummit.eu ; https://www.facebook.com/MCTSummit2010
@@ -37,7 +44,7 @@ EventSite: mctsummit.eu
 
 Date and venue
 When: 28–30 November 2013
-Where: Helsinki, Finland (FI) - venue TBD
+Where: Helsinki, Finland (FI)
 Hosts: Sami Laiho
 Title: MCT Summit EU 2013
 EventSite: mctsummit.eu
@@ -58,49 +65,56 @@ EventSite: mctsummit.eu
 
 Date and venue
 When: 4-6 August 2016
-Where: Phantasialand, near Cologne (DE)
+Where: [Phantasialand](https://www.google.com/maps/search/?api=1&query=Phantasialand%2C+Br%C3%BChl%2C+Germany), Cologne, Germany (DE)
 Hosts: MCT Germany e.V.
 Title: MCT Summit 2016
 EventSite: mctsummit.de
 
 Date and venue
 When: 8-10 June 2017
-Where: The met hotel, Thessaloniki (GR)
+Where: The met hotel, Thessaloniki, Greece (GR)
 Hosts: Elias Markelis
 Title: MCT Summit EU 2017
 EventSite: mctsummit.eu
 
 Date and venue
+When: 22-26 August 2018
+Where: [Phantasialand](https://www.google.com/maps/search/?api=1&query=Phantasialand%2C+Br%C3%BChl%2C+Germany), Cologne, Germany (DE)
+Hosts: MCT Germany e.V.
+Title: MCT Global Summit 2018
+EventSite: https://www.summit2018.global
+
+Date and venue
 When: 18-21 September 2019
-Where: Radisson Blu Hotel Lietuva, Vilnius, Lithuania (LT)
+Where: [Radisson Blu Hotel Lietuva](https://www.google.com/maps/search/?api=1&query=Radisson+Blu+Hotel+Lietuva%2C+Vilnius%2C+Lithuania), Vilnius, Lithuania (LT)
 Hosts: Adas Keserauskas
 Title: MCT Summit EU 2019
 EventSite: mctsummit2019.org
 
 Date and venue
 When: 12-14 September 2022
-Where: Technopark Zurich, Zurich, Switzerland (CH)
+Where: [Technopark](https://www.google.com/maps/search/?api=1&query=Technopark+Z%C3%BCrich%2C+Technoparkstrasse+1%2C+8005+Z%C3%BCrich%2C+Switzerland), Zurich, Switzerland (CH)
 Hosts: Charley Hanania
 Title: European MCT Summit 2022
 EventSite: mctsummit.eu
 
 Date and venue
 When: 14-17 January 2024
-Where: Rijswijk, Netherlands (NL) - near The Hague
+Where: [De Loods](https://www.google.com/maps/search/?api=1&query=De+Loods%2C+Treubstraat+31%2C+2288+EH+Rijswijk%2C+Netherlands), Rijswijk near The Hague, Netherlands (NL)
 Hosts: Adrie Beijlevelt, Erik van der Boom, Henk Buddingh, Erwin Derksen, Walter van Eijk, Wouter Fokkenrood, Siebren Kerkstra, Bryce Kerseboom, Marcel Molenaar, Marco Timmermans, Abdelhakim Yacoubi, Engin Soysal
 Title: MCT Summit EU 2024
 EventSite: mctsummit.nl
 
 Date and venue
 When: 9-10 January 2025
-Where: Manchester, United Kingdom (UK)
+Where: [UA 92](https://www.google.com/maps/search/?api=1&query=UA92%2C+Brian+Statham+Way%2C+Old+Trafford%2C+Stretford%2C+Manchester%2C+M16+0PU%2C+UK), Manchester, United Kingdom (UK)
 Hosts: Sara Fennah, Julian Sharp, Joe Griffin, Tiago Costa
 Title: MCT Summit EU 2025
 EventSite: mctsummit.co.uk
 
 Date and venue
 When: 21-23 April 2026
-Where: Hotel Hills, Sarajevo, Bosnia and Herzegovina (BA)
+Where: [Hotel Hills](https://www.google.com/maps/search/?api=1&query=Hotel+Hills%2C+Sarajevo%2C+Bosnia+and+Herzegovina), Sarajevo, Bosnia and Herzegovina (BA)
 Hosts: Jasmin Kahriman, Damir Dizdarevic, Robert Hales, Rolf McLaughlin
 Title: European MCT Summit Sarajevo 2026
 EventSite: https://mctsummit.ba

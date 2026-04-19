@@ -29,4 +29,4 @@ enableSearch = true
 ## footerLogo = '/images/mctsummiteulogo-transparent-white-800x800.png'
 [params.summitMenus]
 upcoming = ['2026-sarajevo-ba']
-previous = ['2025-manchester-uk', '2024-rijswijk-nl', '2022-zurich-ch', '2019-vilnius-lt', '2017-thessaloniki-gr', '2016-cologne-de', '2015-lisbon-pt', '2014-bucharest-ro', '2013-helsinki-fi', '2012-warsaw-pl', '2011-stockholm-se', '2010-york-uk', '2009-prague-cz', '2008-berlin-de']
+previous = ['2025-manchester-uk', '2024-rijswijk-nl', '2022-zurich-ch', '2019-vilnius-lt', '2018-cologne-de', '2017-thessaloniki-gr', '2016-cologne-de', '2015-lisbon-pt', '2014-bucharest-ro', '2013-helsinki-fi', '2012-warsaw-pl', '2011-stockholm-se', '2010-york-uk', '2009-prague-cz', '2008-berlin-de', '2007-zurich-ch']
