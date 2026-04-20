@@ -9,7 +9,7 @@ EventSite: n/a
 
 Date and venue
 When: 14-16 January 2008
-Where: Berlin, Germany (DE)
+Where: [Estrel Hotel](https://www.google.com/maps/search/?api=1&query=Estrel+Hotel%2C+Sonnenallee+225%2C+Berlin%2C+12057%2C+Germany), Berlin, Germany (DE)
 Hosts: Microsoft
 Title: MCT Community Summit 2008
 EventSite: microsoft.com/germany/learning/mct/mctsummit2008/
