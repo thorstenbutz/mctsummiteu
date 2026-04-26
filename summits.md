@@ -119,3 +119,9 @@ Hosts: Jasmin Kahriman, Damir Dizdarevic, Robert Hales, Rolf McLaughlin
 Title: European MCT Summit Sarajevo 2026
 EventSite: https://mctsummit.ba
 
+Date and venue
+When: Spring 2027
+Where: Dublin, Ireland (IE)
+Hosts: Jasmin Kahriman, Frank Falvey, Rolf McLaughlin, Robert Atkinson, Robert Hales, Denise McLaughlin
+Title: European MCT Summit Dublin 2027
+EventSite: https://www.linkedin.com/company/mct-summit-2027-dublin/
