@@ -42,7 +42,7 @@ https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba
 | Wednesday 22 April 2026 | 11:45 - 12:45 | Sara Fennah | Balancing Copilot and Security in Teams Sessions | Room 1 |  |
 | Wednesday 22 April 2026 | 11:45 - 12:45 | Robert Atkinson | Copilot Fundamentals: Prompting, Productivity, and Real Use Cases | Room 2 |  |
 | Wednesday 22 April 2026 | 11:45 - 12:45 | Jeroen Burgerhout | Windows 11 Shared PCs Done Right | Room 3 |  |
-| Wednesday 22 April 2026 | 13:45 - 14:45 | Rolf McLaughlin, Thorsten Butz | What Constitutes a Course? (panel) | Room 1 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz-rolf-masuch/what-constitutes-a-course-panel) |
+| Wednesday 22 April 2026 | 13:45 - 14:45 | Rolf McLaughlin, Thorsten Butz | What Constitutes a Course? | Room 1 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz-rolf-mclaughlin/what-constitutes-a-course) |
 | Wednesday 22 April 2026 | 13:45 - 14:45 | Nicky De Westelinck | Simplifying Android Enterprise Management | Room 2 |  |
 | Wednesday 22 April 2026 | 13:45 - 14:45 | Dmitrii Solovev | How AI Changes Power BI and Fabric Development World | Room 3 |  |
 | Wednesday 22 April 2026 | 15:15 - 16:15 | Amelia Hernandez Osorio, Andre Thiemann | From MCT to TSP: Sharing Our Learnings from the Road | Room 1 |  |
