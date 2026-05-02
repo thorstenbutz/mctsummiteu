@@ -18,6 +18,7 @@ location = 'Europe'
 url = 'https://mctsummit.eu/'
 bluesky = 'mctsummit.eu'
 twitter = 'mctsummit'
+github = 'mctsummiteu'
 showOrganizations = false
 headerUseHomeIcon = true
 avatar = '/images/mctsummiteulogo-transparent-white-800x800.png'

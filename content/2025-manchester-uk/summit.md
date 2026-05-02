@@ -3,6 +3,7 @@ title: Summit
 # date: 2025-01-09
 city: Manchester
 country: UK
+organizersURL: 'https://e.runevents.net/european-mct-summit-2025'
 ---
 
 ## Date and venue

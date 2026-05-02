@@ -3,6 +3,8 @@ title: Summit
 # date: 2026-04-21
 city: Sarajevo
 country: BA
+# run.events (organizers), when used for this summit
+organizersURL: 'https://e.runevents.net/mct-eu-summit-2026'
 ---
 
 ## Date and venue
@@ -11,7 +13,7 @@ country: BA
 - **Where:** [Hotel Hills](https://www.google.com/maps/search/?api=1&query=Hotel+Hills%2C+Sarajevo%2C+Bosnia+and+Herzegovina), Sarajevo, Bosnia and Herzegovina (BA)  
 - **Hosts:** Jasmin Kahriman, Damir Dizdarevic, Robert Hales, Rolf McLaughlin  
 - **Title:** European MCT Summit Sarajevo 2026 
-- **EventSite:** https://mctsummit.ba ; https://e.runevents.net/mct-eu-summit-2026  
+- **EventSite:** https://mctsummit.ba
 
 {{< image-size src="/images/2026-sarajevo-ba/sarajevoLogo.jpg" href="/images/2026-sarajevo-ba/sarajevoLogo.jpg" alt="Sarajevo logo" width="200" height="200" >}}
 

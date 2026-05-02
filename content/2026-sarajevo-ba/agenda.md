@@ -7,62 +7,57 @@ country: BA
 
 ## Schedule at a glance
 
-- **Tuesday 21 April:** Arrival and registration, opening keynote, hands-on lab, and parallel sessions.
-- **Wednesday 22 April:** Full day of technical sessions, panels, and community tracks.
-- **Thursday 23 April:** Final sessions and closing.
-- **Friday 24 April:** Optional Discover Sarajevo sightseeing tour.
+- **Tuesday 21 April:** Opening, Microsoft program update, panels, and parallel sessions in three rooms.
+- **Wednesday 22 April:** AI-900 hands-on lab (GoDeploy), full day of parallel tracks.
+- **Thursday 23 April:** Parallel sessions and closing (MCT Summit 2027 announcement).
+- **Friday 24 April:** Discover Sarajevo sightseeing tour.
+
+The grid below is the **as-delivered** program. The agenda was created with the help of [run.events](https://e.runevents.net), thank you for your support. 
+https://e.runevents.net/mct-eu-summit-2026
+
+If available, you can find slides, code snippets and demo material in our central Github repository:
+https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba
+
 
 ## The agenda: 21 to 23 April 2026
 
-Detailed session information is available on the run.events website: \
-https://e.runevents.net/mct-eu-summit-2026
-
-| Date |  | Speaker | Topic |
-| --- | --- | --- | --- |
-| Tuesday 21 April 2026 | 09:00 - 10:00 | Jasmin Kahriman, Damir Dizdarevic, Rolf McLaughlin, Robert Hales | Opening Session & Keynote |
-| Tuesday 21 April 2026 | 11:30 - 12:30 | Robert Rybaric | Teaching AI the structured way |
-| Tuesday 21 April 2026 | 11:30 - 12:30 | Christian Peeters | The RAGged Edge: Keep your data and AI close |
-| Tuesday 21 April 2026 | 11:30 - 12:30 | Nicky De Westelinck | Securing the Core: Building a Rock-Solid Microsoft 365 Tenant Baseline |
-| Tuesday 21 April 2026 | 13:30 - 14:30 | Doher Drizzle Pablo | Train with Confidence: Effective Oral Communication for High-Impact Learning |
-| Tuesday 21 April 2026 | 13:30 - 14:30 | Sara Fennah | The Oversharing Solution Blueprint |
-| Tuesday 21 April 2026 | 13:30 - 14:30 | Johan Smarius | Storytelling for trainers |
-| Tuesday 21 April 2026 | 14:45 - 15:45 | Frank Falvey | Teaching with Copilot - Microsoft 365 and Copilot Studio |
-| Tuesday 21 April 2026 | 14:45 - 15:45 | Dmitrii Solovev | Flexible Power BI trainings - getting ready to personalised trainings on-scale |
-| Tuesday 21 April 2026 | 14:45 - 15:45 | Nedim Sadovic | How to Modernize Identity and Access in Hybrid Environments |
-| Tuesday 21 April 2026 | 16:00 - 17:00 | Thorsten Butz | What constitutes a course? (A panel) |
-| Tuesday 21 April 2026 | 16:00 - 17:00 | Michael Kirst-Neshva | Purview Labeling in a Multi-Org Tenant Environment |
-| Tuesday 21 April 2026 | 16:00 - 17:00 | Nebojsa Visic | Vibe or Not to Vibe Code? The Question Is Now! |
-| Wednesday 22 April 2026 | 09:00 - 10:00 | Nedim Sadovic | Sensitive Government Information Through Compliance |
-| Wednesday 22 April 2026 | 09:00 - 10:00 | Mahmoud A. ATALLAH | Solve It Live: Vibe-Coding a Real-World App with Azure AI Foundry & Vision in 60 Minutes |
-| Wednesday 22 April 2026 | 10:15 - 11:15 | Amelia Hernandez Osorio, Andre Thiemann | From MCT to TSP: Sharing our learnings from the road |
-| Wednesday 22 April 2026 | 10:15 - 11:15 | Engin Soysal | Using GitHub Copilot to Build Games in Visual Studio Code |
-| Wednesday 22 April 2026 | 10:15 - 11:15 | Jonah Andersson | Building AI Projects with MCP Servers for Microsoft Learn and GitHub |
-| Wednesday 22 April 2026 | 11:30 - 12:30 | Sara Fennah | Balancing Copilot and Security in Teams Sessions: Tips for MCTs |
-| Wednesday 22 April 2026 | 11:30 - 12:30 | Robert Atkinson | Copilot Fundamentals: Prompting, Productivity, and Real Use Cases |
-| Wednesday 22 April 2026 | 11:30 - 12:30 | Jeroen Burgerhout | Windows 11 Shared PCs done right: Secure, fast, and low-touch with Intune |
-| Wednesday 22 April 2026 | 13:30 - 14:30 | Marc Michault | The MCT Agreement, up close and personal |
-| Wednesday 22 April 2026 | 13:30 - 14:30 | Nebojsa Visic | Microsoft Dynamics Business Central + Microsoft Foundry: Practical AI models and agents for real ERP work |
-| Wednesday 22 April 2026 | 13:30 - 14:30 | Markus Klein | Cloud-like. On-premise. Done right. |
-| Wednesday 22 April 2026 | 14:45 - 15:45 | Jasmin Kahriman | Stand Out as an MCT: Personal Branding on LinkedIn |
-| Wednesday 22 April 2026 | 14:45 - 15:45 | Vivek Trivedi | Govern or Be Governed: Making Power BI Reports Secure, Compliant, and Trusted |
-| Wednesday 22 April 2026 | 14:45 - 15:45 | Christian Peeters | T-SQL Meets AI: Unleashing Vector and RAG Power in SQL Databases |
-| Wednesday 22 April 2026 | 16:00 - 17:00 | Rolf McLaughlin | Shaping the MCT of the future (Panel) |
-| Wednesday 22 April 2026 | 16:00 - 17:00 | Saul Patino | Prompt to Podium: Automating Demos with VS Code and Copilot |
-| Wednesday 22 April 2026 | 16:00 - 17:00 | Robert Hales | Azure sky is looking cloudy! How to work as a multi-cloud instructor |
-| Thursday 23 April 2026 | 09:00 - 10:00 | Ronald Beekelaar | Using tools, best practices, and AI to make your Web site and courseware accessible |
-| Thursday 23 April 2026 | 09:00 - 10:00 | Oluwaseun Deborah Adebayo | Engineering Secure, AI-Powered Cloud Solutions on Azure: From Identity to Intelligent Apps |
-| Thursday 23 April 2026 | 09:00 - 10:00 | Manogararajah Viknaraj | AI Agent for Troubleshooting Azure Environments |
-| Thursday 23 April 2026 | 10:15 - 11:15 | Johan Smarius | How to get the students engaged during your training |
-| Thursday 23 April 2026 | 10:15 - 11:15 | Thorsten Butz | Nothing but trouble with the 2nd factor? |
-| Thursday 23 April 2026 | 10:15 - 11:15 | Saurabh Sarkar | Approaches for migrating (on-prem) Hybrid AADJ devices to Cloud Native using Intune |
-| Thursday 23 April 2026 | 11:30 - 12:30 | Michael Suchacek | Become your own TSP |
-| Thursday 23 April 2026 | 11:30 - 12:30 | Eltjo van Gulik | Deepdive into modern remoting protocol |
-| Thursday 23 April 2026 | 11:30 - 12:30 | Seif Bassem | From Zero to Hero: Self-host Large Language Models on Kubernetes |
-| Thursday 23 April 2026 | 13:30 - 14:30 | Robert Atkinson | How to Deliver Sessions People Actually Remember (11 Years of MCT Lessons) |
-| Thursday 23 April 2026 | 13:30 - 14:30 | Olufemi Olamoyegun | Low-Code Data Analytics with Excel Copilot, Power BI, Fabric, and Power Automate |
-| Thursday 23 April 2026 | 13:30 - 14:30 | Thomas Janssen | From Workflows to AI Agents: Building Intelligent Automation with Power Automate and Copilot Studio |
-| Thursday 23 April 2026 | 14:45 - 15:45 | Dmitrii Solovev | How AI changes Power BI and Fabric development world and what it means for trainers |
-| Thursday 23 April 2026 | 14:45 - 15:45 | Fisnik Doko | AI-Driven DevOps: What's Already Possible in 2026 |
-| Thursday 23 April 2026 | 14:45 - 15:45 | Mahmoud A. ATALLAH | Empowering SaaS Startups with Azure Applied AI Services |
-| Thursday 23 April 2026 | 16:00 - 17:00 | Nedim Sadovic | Escaping the Digital Past |
-| Thursday 23 April 2026 | 16:00 - 17:00 | Marc Michault | Contracts: Safeguards or traps? |
+| Date |  | Speaker | Topic | Room | Resources |
+| --- | --- | --- | --- | --- | --- |
+| Tuesday 21 April 2026 | 09:00 - 09:15 | Jasmin Kahriman, Robert Hales, Rolf McLaughlin | Opening & welcome | Room 2 |  |
+| Tuesday 21 April 2026 | 09:15 - 10:00 | Rohan Kapoor (remote) | MCT Program Update (Microsoft) | Room 2 |  |
+| Tuesday 21 April 2026 | 10:30 - 11:30 | Rolf McLaughlin, Sara Fennah, Ronald Beekelaar, Amelia Hernandez Osorio | Shaping the MCT of the Future (panel) | Room 1 |  |
+| Tuesday 21 April 2026 | 11:45 - 12:45 | Robert Rybaric | Teaching AI the Structured Way | Room 1 |  |
+| Tuesday 21 April 2026 | 11:45 - 12:45 | Nedim Sadovic | Escaping the Digital Past | Room 2 |  |
+| Tuesday 21 April 2026 | 11:45 - 12:45 | Nicky De Westelinck | Securing the Core: Building a Rock-Solid M365 Tenant Baseline | Room 3 |  |
+| Tuesday 21 April 2026 | 13:45 - 14:45 | Marc Michault | The MCT Agreement, Up Close and Personal | Room 1 |  |
+| Tuesday 21 April 2026 | 13:45 - 14:45 | Sara Fennah | The Oversharing Solution Blueprint | Room 2 |  |
+| Tuesday 21 April 2026 | 13:45 - 14:45 | Nebojsa Visic | Vibe or Not to Vibe Code? The Question Is Now! | Room 3 |  |
+| Tuesday 21 April 2026 | 15:15 - 16:15 | Frank Falvey | Teaching with Copilot — Microsoft 365 & Copilot Studio | Room 1 |  |
+| Tuesday 21 April 2026 | 15:15 - 16:15 | Dmitrii Solovev | Flexible Power BI Trainings — Personalised On-Scale | Room 2 |  |
+| Tuesday 21 April 2026 | 15:15 - 16:15 | Engin Soysal (remote) | Using GitHub Copilot to Build Games in VS Code | Room 2 |  |
+| Wednesday 22 April 2026 | 09:00 - 10:00 | GoDeploy | AI-900 hands-on lab (sponsored by go deploy — bring your laptop) | Room 2 |  |
+| Wednesday 22 April 2026 | 10:30 - 11:30 | Jasmin Kahriman | Stand Out as an MCT: Personal Branding on LinkedIn | Room 1 |  |
+| Wednesday 22 April 2026 | 10:30 - 11:30 | Nedim Sadovic | How to Modernize Identity and Access in Hybrid Environments | Room 2 |  |
+| Wednesday 22 April 2026 | 10:30 - 11:30 | Oluwaseun Deborah Adebayo | Engineering Secure, AI-Powered Cloud Solutions on Azure | Room 3 |  |
+| Wednesday 22 April 2026 | 11:45 - 12:45 | Sara Fennah | Balancing Copilot and Security in Teams Sessions | Room 1 |  |
+| Wednesday 22 April 2026 | 11:45 - 12:45 | Robert Atkinson | Copilot Fundamentals: Prompting, Productivity, and Real Use Cases | Room 2 |  |
+| Wednesday 22 April 2026 | 11:45 - 12:45 | Jeroen Burgerhout | Windows 11 Shared PCs Done Right | Room 3 |  |
+| Wednesday 22 April 2026 | 13:45 - 14:45 | Rolf McLaughlin, Thorsten Butz | What Constitutes a Course? (panel) | Room 1 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz-rolf-masuch/what-constitutes-a-course-panel) |
+| Wednesday 22 April 2026 | 13:45 - 14:45 | Nicky De Westelinck | Simplifying Android Enterprise Management | Room 2 |  |
+| Wednesday 22 April 2026 | 13:45 - 14:45 | Dmitrii Solovev | How AI Changes Power BI and Fabric Development World | Room 3 |  |
+| Wednesday 22 April 2026 | 15:15 - 16:15 | Amelia Hernandez Osorio, Andre Thiemann | From MCT to TSP: Sharing Our Learnings from the Road | Room 1 |  |
+| Wednesday 22 April 2026 | 15:15 - 16:15 | Akil Bashar | Securing What Matters: Azure Security & a Breach Case Study | Room 2 |  |
+| Wednesday 22 April 2026 | 15:15 - 16:15 | Omar Kudovic | Microsoft Information Protection + DLP in Real World | Room 3 |  |
+| Thursday 23 April 2026 | 09:00 - 10:00 | Ronald Beekelaar | Using Tools, Best Practices, and AI to Make Your Website and Courseware Accessible | Room 1 |  |
+| Thursday 23 April 2026 | 09:00 - 10:00 | Catalin Gheorghiu | My Data Is GOOD? | Room 2 |  |
+| Thursday 23 April 2026 | 09:00 - 10:00 | Mustafa Toroman | I Know What You Did Last Project (Common Mistakes We Make in Azure) | Room 3 |  |
+| Thursday 23 April 2026 | 10:30 - 11:30 | Robert Hales | Azure Sky Is Looking Cloudy! How to Work as a Multi-Cloud Instructor | Room 3 |  |
+| Thursday 23 April 2026 | 10:30 - 11:30 | Marc Michault | Contracts: Safeguards or Traps? | Room 1 |  |
+| Thursday 23 April 2026 | 11:45 - 12:45 | Michael Suchacek | Become Your Own TSP | Room 1 |  |
+| Thursday 23 April 2026 | 11:45 - 12:45 | Thorsten Butz | Nothing but Trouble with the 2nd Factor? | Room 2 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz/nothing-but-trouble-with-2nd-factor) |
+| Thursday 23 April 2026 | 11:45 - 12:45 | Nebojsa Visic | Microsoft Dynamics Business Central + Microsoft Foundry | Room 3 |  |
+| Thursday 23 April 2026 | 13:45 - 14:45 | Wouter Fokkenrood | Storytelling for Trainers | Room 1 |  |
+| Thursday 23 April 2026 | 13:45 - 14:45 | Thomas Janssen | From Workflows to AI Agents: Building Intelligent Automation | Room 3 |  |
+| Thursday 23 April 2026 | 15:15 - 16:15 | Robert Atkinson | How to Deliver Sessions People Actually Remember (11 Years of MCT Lessons) | Room 1 |  |
+| Thursday 23 April 2026 | 15:15 - 16:15 | Nedim Sadovic | Sensitive Government Information Through Compliance | Room 2 |  |
+| Thursday 23 April 2026 | 16:30 - 16:45 | Jasmin Kahriman, Rolf McLaughlin, Robert Hales | Closing & announcement: MCT Summit 2027 | Room 2 |  |
