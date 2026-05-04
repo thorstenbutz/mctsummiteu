@@ -54,7 +54,7 @@ https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba
 | Thursday 23 April 2026 | 10:30 - 11:30 | Robert Hales | Azure Sky Is Looking Cloudy! How to Work as a Multi-Cloud Instructor | Room 3 |  |
 | Thursday 23 April 2026 | 10:30 - 11:30 | Marc Michault | Contracts: Safeguards or Traps? | Room 1 |  |
 | Thursday 23 April 2026 | 11:45 - 12:45 | Michael Suchacek | Become Your Own TSP | Room 1 |  |
-| Thursday 23 April 2026 | 11:45 - 12:45 | Thorsten Butz | Nothing but Trouble with the 2nd Factor? | Room 2 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz/nothing-but-trouble-with-2nd-factor) |
+| Thursday 23 April 2026 | 11:45 - 12:45 | Thorsten Butz | Nothing but Trouble with the 2nd Factor? | Room 2 | [Video (YouTube)](https://youtu.be/GM-NnwnW2_o) [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz/nothing-but-trouble-with-2nd-factor) |
 | Thursday 23 April 2026 | 11:45 - 12:45 | Nebojsa Visic | Microsoft Dynamics Business Central + Microsoft Foundry | Room 3 |  |
 | Thursday 23 April 2026 | 13:45 - 14:45 | Wouter Fokkenrood | Storytelling for Trainers | Room 1 |  |
 | Thursday 23 April 2026 | 13:45 - 14:45 | Thomas Janssen | From Workflows to AI Agents: Building Intelligent Automation | Room 3 |  |
