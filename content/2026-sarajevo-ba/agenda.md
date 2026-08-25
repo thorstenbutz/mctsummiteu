@@ -45,7 +45,7 @@ https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba
 | Wednesday 22 April 2026 | 13:45 - 14:45 | Rolf McLaughlin, Thorsten Butz | What Constitutes a Course? | Room 1 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/thorsten-butz-rolf-mclaughlin/what-constitutes-a-course) |
 | Wednesday 22 April 2026 | 13:45 - 14:45 | Nicky De Westelinck | Simplifying Android Enterprise Management | Room 2 |  |
 | Wednesday 22 April 2026 | 13:45 - 14:45 | Dmitrii Solovev | How AI Changes Power BI and Fabric Development World | Room 3 |  |
-| Wednesday 22 April 2026 | 15:15 - 16:15 | Amelia Hernandez Osorio, Andre Thiemann | From MCT to TSP: Sharing Our Learnings from the Road | Room 1 |  |
+| Wednesday 22 April 2026 | 15:15 - 16:15 | Amelia Hernandez Osorio, Andre Thiemann | From MCT to TSP: Sharing Our Learnings from the Road | Room 1 | [Slides](https://github.com/MCTSummitEU/Artifacts/tree/main/2026-sarajevo-ba/amelia-hernandez-osorio-andre-thiemann/from-mct-to-tsp-sharing-learnings-from-the-road) |
 | Wednesday 22 April 2026 | 15:15 - 16:15 | Akil Bashar | Securing What Matters: Azure Security & a Breach Case Study | Room 2 |  |
 | Wednesday 22 April 2026 | 15:15 - 16:15 | Omar Kudovic | Microsoft Information Protection + DLP in Real World | Room 3 |  |
 | Thursday 23 April 2026 | 09:00 - 10:00 | Ronald Beekelaar | Using Tools, Best Practices, and AI to Make Your Website and Courseware Accessible | Room 1 |  |

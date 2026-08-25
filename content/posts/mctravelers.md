@@ -22,14 +22,16 @@ Have you ever wondered which days of the week are the most popular for MCT Summi
 | 2011 Stockholm    |       |   X   |   X    |   X    |   X    |       |       |
 | 2012 Warsaw       |       |   X   |   X    |   X    |        |       |       |
 | 2013 Helsinki     |       |       |        |   X    |   X    |   X   |       |
-| 2014 Bucharest    |       |       |        |   X    |   X    |   X   |       |
+| 2014 Bucharest    |       |       |        |   X    |   X    |  (X)  |       |
 | 2015 Lisbon       |       |       |        |   X    |   X    |   X   |       |
 | 2016 Cologne      |       |       |        |   X    |   X    |   X   |       |
 | 2017 Thessaloniki |       |       |        |   X    |   X    |   X   |       |
 | 2018 Cologne      |       |       |   X    |   X    |   X    |   X   |   X   |
 | 2019 Vilnius      |       |       |   X    |   X    |   X    |   X   |       |
 | 2022 Zürich       |   X   |   X   |   X    |        |        |       |       |
-| 2024 Rijswijk     |   X   |   X   |   X    |        |        |       |       |
+| 2024 Rijswijk     |   X   |   X   |   X    |        |        |       |  (X)  |
 | 2025 Manchester   |       |       |        |   X    |   X    |       |       |
 | 2026 Sarajevo     |       |   X   |   X    |   X    |        |       |       |
-| **Sum**           | **3** | **6** | **10** | **14** | **12** | **7** | **1** |
+| **Sum**           | **3** | **6** | **10** | **14** | **12** | **7** | **2** |
+
+(X) refers top social events

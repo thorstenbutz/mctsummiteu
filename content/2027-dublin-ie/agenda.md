@@ -6,8 +6,8 @@ country: IE
 draft: true
 ---
 
-## The agenda: Spring 2027
+## The agenda: 5 to 7 May 2027
 
 | Date | Speaker | Topic |
 | :--- | :--- | :--- |
-| Spring 2027 | — | Session-level agenda data is not available. |
+| 5–7 May 2027 | — | Session-level agenda data is not available. |

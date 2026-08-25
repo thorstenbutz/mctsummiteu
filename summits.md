@@ -120,8 +120,8 @@ Title: European MCT Summit Sarajevo 2026
 EventSite: https://mctsummit.ba
 
 Date and venue
-When: Spring 2027
-Where: Dublin, Ireland (IE)
+When: 5–7 May 2027 (optional city tour 8 May)
+Where: [Nexus Human](https://www.google.com/maps/search/?api=1&query=Nexus+Human%2C+22%2F24+Strand+House%2C+Strand+Street+Great%2C+Dublin+1%2C+D01+W1W4), Dublin, Ireland (IE)
 Hosts: Jasmin Kahriman, Frank Falvey, Rolf McLaughlin, Robert Atkinson, Robert Hales, Denise McLaughlin
 Title: European MCT Summit Dublin 2027
-EventSite: https://www.linkedin.com/company/mct-summit-2027-dublin/
+EventSite: https://mctsummit.ie
