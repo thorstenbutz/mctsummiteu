@@ -1,5 +1,7 @@
 # MCTsummit.eu
 
+> **This repository has moved.** The canonical source for [mctsummit.eu](https://mctsummit.eu/) is now **[MCTSummitEU/Website](https://github.com/MCTSummitEU/Website)**. Please open issues and pull requests there. This copy is kept only as a pointer.
+
 This repository is the source of **mctsummit.eu**, a website intended to serve as a central hub and archive for **M**icrosoft **C**ertified **T**rainers (MCTs). You could call it a diary, a scrapbook, or a book of friends.
 
 Since Microsoft introduced the MCT programme in the 1990s, many passionate lecturers, trainers and consultants have been involved in educating IT professionals all around the world. What started as a combination of a certification and a partner programme has become a vibrant community of people who share knowledge, meet in various locations and simply enjoy having a drink together.
